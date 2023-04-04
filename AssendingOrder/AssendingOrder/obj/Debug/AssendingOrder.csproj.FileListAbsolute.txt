@@ -1,0 +1,16 @@
+D:\C#\C.W\AssendingOrder\AssendingOrder\bin\Debug\AssendingOrder.exe.config
+D:\C#\C.W\AssendingOrder\AssendingOrder\bin\Debug\AssendingOrder.exe
+D:\C#\C.W\AssendingOrder\AssendingOrder\bin\Debug\AssendingOrder.pdb
+D:\C#\C.W\AssendingOrder\AssendingOrder\obj\Debug\AssendingOrder.csproj.AssemblyReference.cache
+D:\C#\C.W\AssendingOrder\AssendingOrder\obj\Debug\AssendingOrder.csproj.SuggestedBindingRedirects.cache
+D:\C#\C.W\AssendingOrder\AssendingOrder\obj\Debug\AssendingOrder.csproj.CoreCompileInputs.cache
+D:\C#\C.W\AssendingOrder\AssendingOrder\obj\Debug\AssendingOrder.exe
+D:\C#\C.W\AssendingOrder\AssendingOrder\obj\Debug\AssendingOrder.pdb
+D:\C#\C.W\Mid\AssendingOrder\AssendingOrder\bin\Debug\AssendingOrder.exe.config
+D:\C#\C.W\Mid\AssendingOrder\AssendingOrder\bin\Debug\AssendingOrder.exe
+D:\C#\C.W\Mid\AssendingOrder\AssendingOrder\bin\Debug\AssendingOrder.pdb
+D:\C#\C.W\Mid\AssendingOrder\AssendingOrder\obj\Debug\AssendingOrder.csproj.AssemblyReference.cache
+D:\C#\C.W\Mid\AssendingOrder\AssendingOrder\obj\Debug\AssendingOrder.csproj.SuggestedBindingRedirects.cache
+D:\C#\C.W\Mid\AssendingOrder\AssendingOrder\obj\Debug\AssendingOrder.csproj.CoreCompileInputs.cache
+D:\C#\C.W\Mid\AssendingOrder\AssendingOrder\obj\Debug\AssendingOrder.exe
+D:\C#\C.W\Mid\AssendingOrder\AssendingOrder\obj\Debug\AssendingOrder.pdb
