@@ -1,0 +1,8 @@
+D:\C#\Practice\LabExam\LabExam\bin\Debug\LabExam.exe.config
+D:\C#\Practice\LabExam\LabExam\bin\Debug\LabExam.exe
+D:\C#\Practice\LabExam\LabExam\bin\Debug\LabExam.pdb
+D:\C#\Practice\LabExam\LabExam\obj\Debug\LabExam.csproj.AssemblyReference.cache
+D:\C#\Practice\LabExam\LabExam\obj\Debug\LabExam.csproj.SuggestedBindingRedirects.cache
+D:\C#\Practice\LabExam\LabExam\obj\Debug\LabExam.csproj.CoreCompileInputs.cache
+D:\C#\Practice\LabExam\LabExam\obj\Debug\LabExam.exe
+D:\C#\Practice\LabExam\LabExam\obj\Debug\LabExam.pdb

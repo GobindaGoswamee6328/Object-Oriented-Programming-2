@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Place Holder", "Place Holder\Place Holder.csproj", "{07062B49-0CC7-44A5-9CE4-BB69B47D7CB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07062B49-0CC7-44A5-9CE4-BB69B47D7CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07062B49-0CC7-44A5-9CE4-BB69B47D7CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07062B49-0CC7-44A5-9CE4-BB69B47D7CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07062B49-0CC7-44A5-9CE4-BB69B47D7CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97609A1F-132B-4636-B926-F358C21DE8E7}
+	EndGlobalSection
+EndGlobal
