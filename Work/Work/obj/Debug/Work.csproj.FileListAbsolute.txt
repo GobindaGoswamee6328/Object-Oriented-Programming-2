@@ -1,0 +1,8 @@
+D:\C#\Practice\Work\Work\bin\Debug\Work.exe.config
+D:\C#\Practice\Work\Work\bin\Debug\Work.exe
+D:\C#\Practice\Work\Work\bin\Debug\Work.pdb
+D:\C#\Practice\Work\Work\obj\Debug\Work.csproj.AssemblyReference.cache
+D:\C#\Practice\Work\Work\obj\Debug\Work.csproj.SuggestedBindingRedirects.cache
+D:\C#\Practice\Work\Work\obj\Debug\Work.csproj.CoreCompileInputs.cache
+D:\C#\Practice\Work\Work\obj\Debug\Work.exe
+D:\C#\Practice\Work\Work\obj\Debug\Work.pdb
