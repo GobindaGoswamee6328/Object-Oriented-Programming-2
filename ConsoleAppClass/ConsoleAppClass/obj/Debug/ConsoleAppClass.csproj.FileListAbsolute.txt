@@ -1,0 +1,8 @@
+D:\C#\Practice\ConsoleAppClass\ConsoleAppClass\obj\Debug\ConsoleAppClass.csproj.AssemblyReference.cache
+D:\C#\Practice\ConsoleAppClass\ConsoleAppClass\obj\Debug\ConsoleAppClass.csproj.SuggestedBindingRedirects.cache
+D:\C#\Practice\ConsoleAppClass\ConsoleAppClass\obj\Debug\ConsoleAppClass.csproj.CoreCompileInputs.cache
+D:\C#\Practice\ConsoleAppClass\ConsoleAppClass\bin\Debug\ConsoleAppClass.exe.config
+D:\C#\Practice\ConsoleAppClass\ConsoleAppClass\bin\Debug\ConsoleAppClass.exe
+D:\C#\Practice\ConsoleAppClass\ConsoleAppClass\bin\Debug\ConsoleAppClass.pdb
+D:\C#\Practice\ConsoleAppClass\ConsoleAppClass\obj\Debug\ConsoleAppClass.exe
+D:\C#\Practice\ConsoleAppClass\ConsoleAppClass\obj\Debug\ConsoleAppClass.pdb
