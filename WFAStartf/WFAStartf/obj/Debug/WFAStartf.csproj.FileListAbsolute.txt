@@ -1,0 +1,11 @@
+D:\C#\C.W\Final\WFAStartf\WFAStartf\bin\Debug\WFAStartf.exe.config
+D:\C#\C.W\Final\WFAStartf\WFAStartf\bin\Debug\WFAStartf.exe
+D:\C#\C.W\Final\WFAStartf\WFAStartf\bin\Debug\WFAStartf.pdb
+D:\C#\C.W\Final\WFAStartf\WFAStartf\obj\Debug\WFAStartf.csproj.AssemblyReference.cache
+D:\C#\C.W\Final\WFAStartf\WFAStartf\obj\Debug\WFAStartf.csproj.SuggestedBindingRedirects.cache
+D:\C#\C.W\Final\WFAStartf\WFAStartf\obj\Debug\WFAStartf.Form1.resources
+D:\C#\C.W\Final\WFAStartf\WFAStartf\obj\Debug\WFAStartf.Properties.Resources.resources
+D:\C#\C.W\Final\WFAStartf\WFAStartf\obj\Debug\WFAStartf.csproj.GenerateResource.cache
+D:\C#\C.W\Final\WFAStartf\WFAStartf\obj\Debug\WFAStartf.csproj.CoreCompileInputs.cache
+D:\C#\C.W\Final\WFAStartf\WFAStartf\obj\Debug\WFAStartf.exe
+D:\C#\C.W\Final\WFAStartf\WFAStartf\obj\Debug\WFAStartf.pdb

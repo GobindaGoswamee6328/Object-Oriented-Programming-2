@@ -1,0 +1,8 @@
+D:\C#\C.W\Final\ConsoleAppOne\ConsoleAppOne\bin\Debug\ConsoleAppOne.exe.config
+D:\C#\C.W\Final\ConsoleAppOne\ConsoleAppOne\bin\Debug\ConsoleAppOne.exe
+D:\C#\C.W\Final\ConsoleAppOne\ConsoleAppOne\bin\Debug\ConsoleAppOne.pdb
+D:\C#\C.W\Final\ConsoleAppOne\ConsoleAppOne\obj\Debug\ConsoleAppOne.csproj.AssemblyReference.cache
+D:\C#\C.W\Final\ConsoleAppOne\ConsoleAppOne\obj\Debug\ConsoleAppOne.csproj.SuggestedBindingRedirects.cache
+D:\C#\C.W\Final\ConsoleAppOne\ConsoleAppOne\obj\Debug\ConsoleAppOne.csproj.CoreCompileInputs.cache
+D:\C#\C.W\Final\ConsoleAppOne\ConsoleAppOne\obj\Debug\ConsoleAppOne.exe
+D:\C#\C.W\Final\ConsoleAppOne\ConsoleAppOne\obj\Debug\ConsoleAppOne.pdb
