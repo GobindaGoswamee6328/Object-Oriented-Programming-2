@@ -1,8 +1,0 @@
-D:\C#\Practice\ProjectMid\ProjectMid\bin\Debug\ProjectMid.exe.config
-D:\C#\Practice\ProjectMid\ProjectMid\bin\Debug\ProjectMid.exe
-D:\C#\Practice\ProjectMid\ProjectMid\bin\Debug\ProjectMid.pdb
-D:\C#\Practice\ProjectMid\ProjectMid\obj\Debug\ProjectMid.csproj.AssemblyReference.cache
-D:\C#\Practice\ProjectMid\ProjectMid\obj\Debug\ProjectMid.csproj.SuggestedBindingRedirects.cache
-D:\C#\Practice\ProjectMid\ProjectMid\obj\Debug\ProjectMid.csproj.CoreCompileInputs.cache
-D:\C#\Practice\ProjectMid\ProjectMid\obj\Debug\ProjectMid.exe
-D:\C#\Practice\ProjectMid\ProjectMid\obj\Debug\ProjectMid.pdb
