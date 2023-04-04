@@ -1,0 +1,8 @@
+D:\C#\C.W\AccessModifier1\AccessModifierDemo\bin\Debug\AccessModifierDemo.exe.config
+D:\C#\C.W\AccessModifier1\AccessModifierDemo\bin\Debug\AccessModifierDemo.exe
+D:\C#\C.W\AccessModifier1\AccessModifierDemo\bin\Debug\AccessModifierDemo.pdb
+D:\C#\C.W\AccessModifier1\AccessModifierDemo\obj\Debug\AccessModifierDemo.csproj.AssemblyReference.cache
+D:\C#\C.W\AccessModifier1\AccessModifierDemo\obj\Debug\AccessModifierDemo.csproj.SuggestedBindingRedirects.cache
+D:\C#\C.W\AccessModifier1\AccessModifierDemo\obj\Debug\AccessModifierDemo.csproj.CoreCompileInputs.cache
+D:\C#\C.W\AccessModifier1\AccessModifierDemo\obj\Debug\AccessModifierDemo.exe
+D:\C#\C.W\AccessModifier1\AccessModifierDemo\obj\Debug\AccessModifierDemo.pdb
