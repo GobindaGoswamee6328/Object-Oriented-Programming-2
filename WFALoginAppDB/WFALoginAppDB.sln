@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFALoginAppDB", "WFALoginAppDB\WFALoginAppDB.csproj", "{958D8A8E-7272-4475-95B5-3730E47FD237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{958D8A8E-7272-4475-95B5-3730E47FD237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958D8A8E-7272-4475-95B5-3730E47FD237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958D8A8E-7272-4475-95B5-3730E47FD237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958D8A8E-7272-4475-95B5-3730E47FD237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37B50242-65C3-4AA8-A441-9F74C4F74D68}
+	EndGlobalSection
+EndGlobal

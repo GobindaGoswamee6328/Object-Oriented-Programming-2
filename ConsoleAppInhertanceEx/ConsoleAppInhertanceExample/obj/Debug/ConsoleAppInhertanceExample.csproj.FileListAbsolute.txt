@@ -1,0 +1,7 @@
+C:\Users\HASIB\Dropbox\AIUB\23. Spring 2022-23\OOP-2\Project\ConsoleAppInhertanceEx\ConsoleAppInhertanceExample\bin\Debug\ConsoleAppInhertanceExample.exe.config
+C:\Users\HASIB\Dropbox\AIUB\23. Spring 2022-23\OOP-2\Project\ConsoleAppInhertanceEx\ConsoleAppInhertanceExample\bin\Debug\ConsoleAppInhertanceExample.exe
+C:\Users\HASIB\Dropbox\AIUB\23. Spring 2022-23\OOP-2\Project\ConsoleAppInhertanceEx\ConsoleAppInhertanceExample\bin\Debug\ConsoleAppInhertanceExample.pdb
+C:\Users\HASIB\Dropbox\AIUB\23. Spring 2022-23\OOP-2\Project\ConsoleAppInhertanceEx\ConsoleAppInhertanceExample\obj\Debug\ConsoleAppInhertanceExample.csprojAssemblyReference.cache
+C:\Users\HASIB\Dropbox\AIUB\23. Spring 2022-23\OOP-2\Project\ConsoleAppInhertanceEx\ConsoleAppInhertanceExample\obj\Debug\ConsoleAppInhertanceExample.csproj.CoreCompileInputs.cache
+C:\Users\HASIB\Dropbox\AIUB\23. Spring 2022-23\OOP-2\Project\ConsoleAppInhertanceEx\ConsoleAppInhertanceExample\obj\Debug\ConsoleAppInhertanceExample.exe
+C:\Users\HASIB\Dropbox\AIUB\23. Spring 2022-23\OOP-2\Project\ConsoleAppInhertanceEx\ConsoleAppInhertanceExample\obj\Debug\ConsoleAppInhertanceExample.pdb
